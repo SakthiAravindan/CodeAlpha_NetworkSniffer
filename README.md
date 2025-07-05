@@ -1,20 +1,20 @@
-# CodeAlpha Task 1: Basic Network Sniffer
+CodeAlpha Task 1: Basic Network Sniffer
 
 This is a simple Python-based network sniffer built for the CodeAlpha Cybersecurity Internship.
 
-## 💻 Features
+ Features
 - Captures live network packets
 - Displays:
   - Source IP
   - Destination IP
   - Protocol used (TCP, UDP, etc.)
 
-## 🛠️ Tools Used
+Tools Used
 - Python 3
 - Scapy Library
 - Windows 10
 
-## ▶️ How to Run
+ How to Run
 1. Install Scapy:
 ```bash
 pip install scapy
